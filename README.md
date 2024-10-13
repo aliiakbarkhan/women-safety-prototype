@@ -10,7 +10,7 @@ This repository contains the Figma prototype for a **Women Safety Application**.
 - **User-Friendly Design**: Focused on simplicity and efficiency.
 
 ## Prototype Preview 📱
-You can view the prototype on Figma using [this link](#).
+You can view the prototype on Figma using [this link](#https://www.figma.com/community/file/1427140082340890877/women-safety-ali-akbar-khan).
 
 ## Files in the Repository 📂
 - **Prototype Files** (`.fig`): Figma project file showcasing the design.
@@ -30,4 +30,8 @@ You can view the prototype on Figma using [this link](#).
 If you’d like to contribute or provide suggestions, feel free to fork the repository and submit a pull request!
 
 ## License 📜
-This project is licensed under the MIT License.
+Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
+
+This license allows for downloading and sharing the content with attribution, but it does not allow for any modifications or commercial use.
+
+For more details, please refer to [this link](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode).
