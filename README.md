@@ -10,7 +10,15 @@ This repository contains the Figma prototype for a **Women Safety Application**.
 - **User-Friendly Design**: Focused on simplicity and efficiency.
 
 ## Prototype Preview 📱
-You can view the prototype on Figma using [this link](#https://www.figma.com/community/file/1427140082340890877/women-safety-ali-akbar-khan).
+You can view the prototype on Figma using [this link](https://www.figma.com/community/file/1427140082340890877/women-safety-ali-akbar-khan).
+
+## Screenshots 📸
+Here are some key screenshots of the prototype:
+
+| Home Screen | SOS Button Screen | Volunteer Network Screen |
+|:-----------:|:-----------------:|:------------------------:|
+| ![Home Screen](Screenshots/4.png) | ![SOS Button](Screenshots/10.png) | ![Volunteer Network](Screenshots/11.png) |
+
 
 ## Files in the Repository 📂
 - **Prototype Files** (`.fig`): Figma project file showcasing the design.
