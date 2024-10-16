@@ -20,6 +20,15 @@ Here are some key screenshots of the prototype:
 |:-----------:|:-----------------:|:------------------------:|
 | ![Home Screen](Screenshots/4.png) | ![SOS Button](Screenshots/10.png) | ![Volunteer Network](Screenshots/11.png) |
 
+## Video 📸
+
+https://github.com/user-attachments/assets/cfc3a503-f4d1-40cb-817a-6608aca95076
+
+https://github.com/user-attachments/assets/a5503f72-a513-4d4d-9927-6884343ddde9
+
+https://github.com/user-attachments/assets/04d3d674-2495-4990-ae6b-40e9ff5387c1
+
+https://github.com/user-attachments/assets/01bfc068-f673-4061-bb11-6a30bc05080d
 
 ## Files in the Repository 📂
 - **Prototype Files** (`.fig`): Figma project file showcasing the design.
