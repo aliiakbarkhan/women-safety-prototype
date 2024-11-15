@@ -1,6 +1,11 @@
 # Women Safety Application Prototype 🚨👩‍💻
 <img src = "Screenshots/Black Grey Aqua Grunge Gaming YouTube Banner (1).png" width="100%" height="auto"/>
 
+## All Rights Reserved.
+This repository and its contents are copyrighted. No part of this repository may be reproduced, distributed, or used without explicit permission from the owner.
+
+
+
 ## Overview 🌍✨
 This repository contains the Figma prototype for a **Women Safety Application**. The app is designed to provide quick access to safety features, including an SOS system, location sharing, and a volunteer network to help women in distress. The prototype focuses on ease of use, accessibility, and modern UX design.
 
