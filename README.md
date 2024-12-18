@@ -1,5 +1,5 @@
 # Women Safety Application Prototype 🚨👩‍💻
-<img src = "Screenshots/Black Grey Aqua Grunge Gaming YouTube Banner (1).png" width="100%" height="auto"/>
+<img align="middle" alt="GIF" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/12cbe8a4-f55c-4b40-85bb-d8e1405e7b84/dehw5r1-2c44f86b-7b76-47b8-8b85-86fed70343eb.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEyY2JlOGE0LWY1NWMtNGI0MC04NWJiLWQ4ZTE0MDVlN2I4NFwvZGVodzVyMS0yYzQ0Zjg2Yi03Yjc2LTQ3YjgtOGI4NS04NmZlZDcwMzQzZWIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.j96DBClVqhAIfFoK_sDQD1eY03Z5FWESBfXvUILejUo" />
 
 ## All Rights Reserved.
 This repository and its contents are copyrighted. No part of this repository may be reproduced, distributed, or used without explicit permission from the owner.
@@ -58,3 +58,5 @@ Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
 This license allows for downloading and sharing the content with attribution, but it does not allow for any modifications or commercial use.
 
 For more details, please refer to [this link](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode).
+
+<img src = "Screenshots/Black Grey Aqua Grunge Gaming YouTube Banner (1).png" width="100%" height="auto"/>
