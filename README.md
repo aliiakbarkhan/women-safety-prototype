@@ -53,7 +53,8 @@ https://github.com/user-attachments/assets/01bfc068-f673-4061-bb11-6a30bc05080d
 If you’d like to contribute or provide suggestions, feel free to fork the repository and submit a pull request!
 
 ## License 
-Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
+
+https://github.com/user-attachments/assets/1b6f530c-0eb8-4c25-90c6-f26a9c64263a
 
 This license allows for downloading and sharing the content with attribution, but it does not allow for any modifications or commercial use.
 
